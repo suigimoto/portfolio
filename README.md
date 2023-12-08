@@ -21,35 +21,26 @@
   - コンソールで簡単なデータ処理プログラムを開発
 
 ## 取り組んでいるテーマ
-オリジナルゲーム開発
+- オリジナルHD-2Dゲーム開発
 
 ## 作品リスト
 
 ### 逃げろUnityちゃん!
-[<img src="images/wallwalker.png" alt="Wall Walker" style="height: 360px">](https://am1tanaka.itch.io/wall-walker)
 
-[Wall Walker](https://am1tanaka.itch.io/wall-walker)
 
-壁に向かって歩くと部屋が回転する。箱に押しつぶされたりトゲにぶつからないように鍵を手に入れてゴールを目指すパズルゲーム。
+迫ってくる壁から逃げながら、落とし穴や障害物に当たらないようにゴールを目指すゲーム
 
 - 開発環境：Unity2020.3.4f1
-- 開発期間：2021/8/21-8/23
-- [Kenney Jam 2021](https://itch.io/jam/kenney-jam-2021)参加作品
-  - [5位](https://itch.io/jam/kenney-jam-2021/results)
-
+- 開発期間：2023/7/21-2023/8/27
 ### 即死魔法少女
-[<img src="images/icon_shobako.gif" alt="正箱" style="height: 360px">](https://unityroom.com/games/shobako)
+<img src="images/majo_title.png" alt="即魔女" style="height: 360px">
 
-[正箱-ShoBako-](https://unityroom.com/games/shobako)
+<img src="images/majo_play.png" alt="即魔女" style="height: 360px">
 
-「正」の字を左右に回転させて、迫ってくる部屋の壁の隙間を潜り抜けるアクションゲームです。
+ヤクザが撃ってくる弾をよけながら、ステージの一番右にいるボスを倒しクリアを目指すアクションゲーム。
 
 - 開発環境：Unity2020.3.4f1
-- 開発期間：2021/12/20-2022/1/8
-- 1週間ゲームジャム「正」参加作品
-  - 最高順位　総合40位 / サウンド21位 / 操作性18位
+- 開発期間：2023/9/8-2023/11/11
 
 ## 連絡先
-- ブログ [tanaka's Programming Memo](https://am1tanaka.hatenablog.com/)
-- Twitter [@am1tanaka](https://twitter.com/am1tanaka)
-- E-mail [a@a.a](mailto:a@a.a)
+- E-mail [sugimotodat@gmail.com](mailto:sugimotodat@gmail.com)
