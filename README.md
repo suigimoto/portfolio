@@ -42,5 +42,16 @@
 - 開発環境：Unity2020.3.4f1
 - 開発期間：2023/9/8-2023/11/11
 
+### 風送り
+
+<img src="images/kazeokuri_play.png" alt="風送り" style="height: 360px">
+
+風を操って鳥の糞や壁に当てないようにしながら、紙飛行機をゴールに向かわせるゲーム。
+
+[風送り(Unityroom)](https://unityroom.com/games/kazeokuri)
+
+- 開発環境：Unity2022.3.6f1
+- 開発期間：2023/12月 2週間程度
+
 ## 連絡先
 - E-mail [sugimotodat@gmail.com](mailto:sugimotodat@gmail.com)
